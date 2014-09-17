@@ -8,3 +8,5 @@ The project builds a remote control system for a floor fan. Care was taken as to
 The control system is a finite state machine with 4 states (`off`, `speed_1`, `speed_2`, `speed_3`). The `remote` is able to switch the fan between those 4 states.
 
 For more details on the construction process, take a look at the [wiki](https://github.com/pAIgn10/fanIR/wiki) page. For an example of the system's performance, there is a short [video](https://www.youtube.com/watch?v=_2cOVIHtIOk) on YouTube.
+
+The [project](https://codebender.cc/sketch:49068) is also available at codebender.
