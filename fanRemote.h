@@ -1,9 +1,9 @@
 /**
  * Name: fanRemote
- * Author: Nick Lamprianidis { paign10.ln@gmail.com }
+ * Author: Nick Lamprianidis <nlamprian@gmail.com>
  * Version: 1.0
  * Description: This is a slightly modified version of the IRRemoteControl 
- *              library ( https://github.com/pAIgn10/IRRemoteControl ).
+ *              library ( https://github.com/nlamprian/IRRemoteControl ).
  *              I tweaked the library to allow for the callbacks to ask 
  *              for the pressed button
  * License: Copyright (c) 2014 Nick Lamprianidis
